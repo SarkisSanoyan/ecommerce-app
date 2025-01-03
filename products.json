@@ -1,0 +1,100 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "MacBook Air M1",
+            "price": 1890,
+            "src": "https://qvc.scene7.com/is/image/QVC/e/38/e241338.004?$aempdzoom$"
+        },
+        {
+            "id": 2,
+            "title": "Dell VOSTRO 5620",
+            "price": 1790,
+            "src": "https://laptopmedia.com/wp-content/uploads/2021/06/5-1-e1622724668275.jpeg"
+        },
+        {
+            "id": 3,
+            "title": "Acer Nitro 5",
+            "price": 1690,
+            "src": "https://media.ldlc.com/r1600/ld/products/00/05/87/02/LD0005870290_1_0005870340.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Creator 7i",
+            "price": 1450,
+            "src": "https://www.notebookcheck-ru.com/fileadmin/_processed_/c/9/csm_Lenovo_Yoga_Creator_7_15IMH05_Ansicht2_b779153bf1.jpg"
+        },
+        {
+            "id": 5,
+            "title": "ASUS Zenbook Pro 17",
+            "price": 1190,
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Zenbook_Pro_17_UM6702_Glass_Product_photo_02.png"
+        },
+        {
+            "id": 6,
+            "title": "Msi ge76 raider",
+            "price": 990,
+            "src": "https://tehnoteca.ru/img/2058/2057905/msi_ge76_raider_11uh_ge76_11uh_613ua_6.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Galaxy Book2 Pro 360",
+            "price": 1650,
+            "src": "https://media.power-cdn.net/images/h-b6704b7a6e57152f132f35bff0487d10/products/1180850/1180850_17_1200x1200_w_g.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Toshiba Satellite P205",
+            "price": 1290,
+            "src": "https://media.wired.com/photos/59eac692ce22fd0cca3c5364/master/w_2560%2Cc_limit/toshiba_satellite_p205_s6287_notebook_f.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Acer Predator Helios 300",
+            "price": 1250,
+            "src": "https://notebookcentre.am/wa-data/public/shop/products/46/53/5346/images/10384/10384.750.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Lenovo V15 G3 IAP",
+            "price": 1090,
+            "src": "https://notebookcentre.am/wa-data/public/shop/products/51/89/8951/images/18743/18743.750.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Asus VivoBook Go",
+            "price": 1390,
+            "src": "https://notebookcentre.am/wa-data/public/shop/products/97/90/9097/images/19079/19079.750.jfif"
+        },
+        {
+            "id": 12,
+            "title": "HP 250 G10",
+            "price": 1990,
+            "src": "https://notebookcentre.am/wa-data/public/shop/products/21/70/7021/images/17946/17946.750.png"
+        },
+        {
+            "id": 13,
+            "title": "HP Laptop 15.6 i5",
+            "price": 1890,
+            "src": "https://www.zigzag.am/media/catalog/product/cache/7c16c88041d39faa139ca3256be9fb23/4/2/42957260_2.png"
+        },
+        {
+            "id": 14,
+            "title": "Apple MacBook Air 13",
+            "price": 2090,
+            "src": "https://www.zigzag.am/media/catalog/product/cache/7c16c88041d39faa139ca3256be9fb23/4/2/42675544.png"
+        },
+        {
+            "id": 15,
+            "title": "Apple MacBook Pro 14 ",
+            "price": 2390,
+            "src": "https://www.zigzag.am/media/catalog/product/cache/7c16c88041d39faa139ca3256be9fb23/4/2/4267660.png"
+        },
+        {
+            "id": 16,
+            "title": "HP Pavilion 16",
+            "price": 1590,
+            "src": "https://www.zigzag.am/media/catalog/product/cache/7c16c88041d39faa139ca3256be9fb23/4/2/4295815.png"
+        }
+    ]
+}
