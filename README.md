@@ -64,15 +64,15 @@ In the project directory, you can run:
     "products": [
         {
             "id": 1,
-            "title": "MacBook Air M1",
-            "price": 1890,
-            "src": "https://qvc.scene7.com/is/image/QVC/e/38/e241338.004?$aempdzoom$"
+            "title": "your_title",
+            "price": "your_price",
+            "src": "your_image_src"
         },
         {
             "id": 2,
-            "title": "Dell VOSTRO 5620",
-            "price": 1790,
-            "src": "https://laptopmedia.com/wp-content/uploads/2021/06/5-1-e1622724668275.jpeg"
+            "title": "your_title",
+            "price": "your_price",
+            "src": "your_image_src"
         }
     ]
 }
@@ -99,8 +99,6 @@ This will create an optimized production build in the `build` directory.
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
 
-Feel free to fork, modify, and use this project for your own purposes. Contributions are welcome!
 
 
