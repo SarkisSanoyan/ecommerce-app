@@ -84,6 +84,7 @@ In the project directory, you can run:
 src/
 ├── App.js
 ├── index.js
+├── ...
 products.json
 ```
 
