@@ -12,7 +12,7 @@ function HomePage() {
     const [filteredProducts, setFilteredProducts] = useState([]);
 
     useEffect(() => {
-        fetch('http://localhost:4000/products/')
+        fetch('http://localhost:5000/products/')
             .then(response => {
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
